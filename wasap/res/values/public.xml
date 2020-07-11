@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="about_logo" id="0x7f020000" />
+    <public type="drawable" name="avatar_contact" id="0x7f020001" />
+    <public type="drawable" name="avatar_contact_call" id="0x7f020002" />
+    <public type="drawable" name="avatar_contact_large" id="0x7f020003" />
+    <public type="drawable" name="avatar_server_psa" id="0x7f020004" />
+    <public type="drawable" name="avatar_server_psa_large" id="0x7f020005" />
+    <public type="drawable" name="avatar_status" id="0x7f020006" />
+    <public type="drawable" name="background" id="0x7f020007" />
+    <public type="drawable" name="facebook_logo" id="0x7f020008" />
+    <public type="drawable" name="splash_facebook_logo" id="0x7f020009" />
+    <public type="mipmap" name="icon" id="0x7f030002" />
+    <public type="mipmap" name="ic_wa_background" id="0x7f030000" />
+    <public type="mipmap" name="ic_wa_foreground" id="0x7f030001" />
+</resources>
