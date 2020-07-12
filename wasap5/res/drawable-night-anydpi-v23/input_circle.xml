@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/keyguard_text_color_decline" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring" android:innerRadiusRatio="2.2" android:thicknessRatio="22.0" android:useLevel="false">
+            <gradient android:startColor="@null" android:endColor="@null" android:angle="315.0" android:type="linear" />
+        </shape>
+    </item>
+</ripple>

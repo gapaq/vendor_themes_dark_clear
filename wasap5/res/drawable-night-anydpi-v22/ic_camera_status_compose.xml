@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="57.0dip" android:width="57.0dip">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/keyguard_text_color_decline" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring" android:innerRadiusRatio="2.2" android:thicknessRatio="22.0" android:useLevel="false">
+            <gradient android:startColor="@null" android:endColor="#c0000000" android:angle="315.0" android:type="linear" />
+        </shape>
+    </item>
+    <item>
+        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <group android:scaleX="0.5" android:scaleY="0.5" android:translateX="6.0" android:translateY="6.0">
+                <path android:pathData="M12,12m-3.4828,0a3.4828,3.4828 0,1 1,6.9656 0a3.4828,3.4828 0,1 1,-6.9656 0" android:strokeColor="#ffffffff" android:strokeWidth="2.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+                <path android:pathData="M8.364,3.8503L15.636,3.8503A4.5137,4.5137 0,0 1,20.1497 8.364L20.1497,15.6361A4.5137,4.5137 0,0 1,15.636 20.1498L8.364,20.1498A4.5137,4.5137 0,0 1,3.8503 15.6361L3.8503,8.364A4.5137,4.5137 0,0 1,8.364 3.8503z" android:strokeColor="#ffffffff" android:strokeWidth="2.0" android:trimPathEnd="1.0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1.0" />
+            </group>
+        </vector>
+    </item>
+</ripple>

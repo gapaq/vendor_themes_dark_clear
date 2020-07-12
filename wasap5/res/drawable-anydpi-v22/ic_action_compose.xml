@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="57.0dip" android:width="57.0dip">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/background_dark" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring" android:innerRadiusRatio="2.2" android:thicknessRatio="22.0" android:useLevel="false">
+            <gradient android:startColor="@null" android:endColor="@null" android:angle="315.0" android:type="linear" />
+        </shape>
+    </item>
+    <item>
+        <vector android:tint="#ffffffff" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <group android:scaleX="0.7" android:scaleY="0.7" android:translateX="3.5" android:translateY="3.5">
+                <path android:fillColor="@null" android:pathData="M12.29,3.57a8.37,8.37 0,0 0,-7.9 4.9,8.35 8.35,0 0,0 4.07,11.1c1.1,0.5 2.31,0.8 3.54,0.8s2.42,-0.3 3.53,-0.8l3.52,0.8c0.91,0.2 1.47,-0.5 1.3,-1.3l-0.74,-3.6c1.95,-4.2 0.13,-9.2 -4.08,-11.1a7.59,7.59 0,0 0,-3.24 -0.8z" />
+                <path android:fillColor="#ff000000" android:pathData="M15.6,11.97m-1.344,0a1.344,1.344 0,1 1,2.688 0a1.344,1.344 0,1 1,-2.688 0" android:fillAlpha="0.8" />
+                <path android:fillColor="#ff000000" android:pathData="M12,11.97m-1.344,0a1.344,1.344 0,1 1,2.688 0a1.344,1.344 0,1 1,-2.688 0" android:fillAlpha="0.9" />
+                <path android:fillColor="#ff000000" android:pathData="M8.4,11.97m-1.344,0a1.344,1.344 0,1 1,2.688 0a1.344,1.344 0,1 1,-2.688 0" />
+                <path android:fillColor="@null" android:pathData="M12,20.97c1.32,0 2.592,-0.288 3.792,-0.84l3.768,0.792c0.984,0.216 1.584,-0.408 1.392,-1.392L20.16,15.762c2.088,-4.512 0.144,-9.864 -4.368,-11.952C11.28,1.722 5.928,3.666 3.84,8.154 1.752,12.642 3.696,18.018 8.208,20.13A8.928,8.928 0,0 0,12 20.97zM12,4.77a7.1904,7.1904 0,0 1,6.528 10.224l-0.24,0.552 0.72,3.432 -3.432,-0.72 -0.552,0.264c-3.6,1.656 -7.896,0.072 -9.552,-3.528 -1.656,-3.6 -0.072,-7.896 3.528,-9.552C9.936,4.986 10.968,4.77 12,4.77z" />
+            </group>
+        </vector>
+    </item>
+</ripple>
