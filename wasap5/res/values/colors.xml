@@ -2,8 +2,8 @@
 <resources>
     <color name="paletteSurface_3dp">@android:color/background_dark</color>
     <color name="paletteSurface_dark">@android:color/background_dark</color>
-    <color name="paletteSurface_4dp">@android:color/background_leanback_dark</color>
-    <color name="paletteSurface_8dp">@android:color/background_leanback_dark</color>
+    <color name="paletteSurface_4dp">@android:color/background_dark</color>
+    <color name="paletteSurface_8dp">@android:color/background_dark</color>
     <color name="paletteOnError">@android:color/background_dark</color>
     <color name="paletteOnPrimary">@android:color/background_dark</color>
     <color name="paletteOnSecondary">@android:color/background_dark</color>
@@ -79,6 +79,6 @@
     <color name="voice_note_scrubber_green">@null</color>
     <color name="webview_progress_background">@null</color>
     <color name="webview_progress_foreground">@null</color>
-    <color name="accent_material_light">@android:color/Blue_700</color>
-    <color name="accent_material_dark">@android:color/Pink_700</color>
+    <color name="accent_material_light">@android:color/white</color>
+    <color name="accent_material_dark">@android:color/black</color>
 </resources>

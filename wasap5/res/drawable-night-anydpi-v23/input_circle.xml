@@ -3,7 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape android:shape="oval">
-            <solid android:color="@android:color/keyguard_text_color_decline" />
+            <solid android:color="@android:color/transparent" />
         </shape>
     </item>
     <item>

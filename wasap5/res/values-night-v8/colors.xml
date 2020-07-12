@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accent_v2">@android:color/Blue_700</color>
+    <color name="accent_v2">@android:color/black</color>
     <color name="splash_background">@android:color/background_dark</color>
 </resources>
